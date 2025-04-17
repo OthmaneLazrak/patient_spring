@@ -6,7 +6,7 @@
 <h2> Affichage par page</h2>
 <img src="captures/page.png">
 <h2>Search avec keyword</h2>
-<img src="captures/search.png">
+<img src="captures/key.png">
 <h2> Avant suppression produit 26</h2>
 <img src="captures/avsupp.png">
 <h2> Après suppression produit 26</h2>
